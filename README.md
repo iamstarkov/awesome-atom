@@ -14,7 +14,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Pigments](#pigments)
  - [Color Picker](#color-picker)
  - [Fonts](#fonts)
- - [Advanced New File](#advanced-new-file)
  - [Advanced Open File](#advanced-open-file)
  - [File Icons](#file-icons)
  - [Pane Layout](#pane-layout)
@@ -92,10 +91,6 @@ Theme packages can change your atom editor's appearance.
 
 #### [Fonts](https://atom.io/packages/fonts)
 > Lots of monospace fonts.
-
-#### [Advanced New File](https://atom.io/packages/advanced-new-file)
-> Create multiple files and directories by typing a relative path.
-> This package is currently unmaintained. It's advisable to use [Advanced Open File](#advanced-open-file) instead.
 
 ![](https://cloud.githubusercontent.com/assets/3289225/5792505/81f41c72-9f1b-11e4-9085-38cfb832383c.gif)
 
